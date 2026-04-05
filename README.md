@@ -1,6 +1,6 @@
 ## 🦊 welcome to foxxy's profile!
 
-Im a **17 yo computer and electronics enthusiast**. I focus on creating new ideas and pushing LLMs to their limits while vibe-coding side projects and useful tools. Im planning to host useful stuff like git instance for people like me. In the end, my whole objective is to make things work under the hood while using AI for the boring work.
+Im a **17 yo computer and electronics enthusiast**. I focus on creating new ideas and pushing LLMs to their limits while vibe-coding side projects and useful tools. Im planning to host useful stuff like git instance for people like me. In the end, my whole objective is to make things work under the hood while using AI for the boring work. I love writing Go programs so my Go projects are not vibe coded and most are %100 AI free.
 
 ---
 
