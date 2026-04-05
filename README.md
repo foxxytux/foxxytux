@@ -15,7 +15,7 @@ Im a **17 yo computer and electronics enthusiast**. I focus on creating new idea
 
 - I distro-hop a lot, but generally stick with arch, mint and fedora
 - I use opencode to vibe-code, but im still writing code on my own.
-- I love python, while im learning rust right now
+- I love and use python, while im learning more about go right now
 - I try and learn all sorts of devops tools
 
 ---
